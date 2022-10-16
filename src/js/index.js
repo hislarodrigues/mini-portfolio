@@ -25,14 +25,3 @@ abas.forEach(aba => {
 });
 
 
-cor 
-fruta 
-Animation
-horrio 
-esação 
-pedra ´recopm 
-princesa 
-idDoElementoDeInformacoesDaAba
-lugar 
-carro 
-comida 
